@@ -1,1 +1,1 @@
-# DocEase
+# HospitalManagement
